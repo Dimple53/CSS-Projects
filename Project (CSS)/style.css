@@ -28,7 +28,7 @@
 }
 
 .music-player{
-  background-color: black;
+  background-color: #000;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -112,12 +112,14 @@ a{
 
 .box-p1{
   font-size: 1rem;
-  font-weight: 500; 
+  font-weight: 500;
+  background-color: transparent; 
 }
 
 .box-p2{
   font-size: 0.85rem ;
   opacity: 0.9;
+  background-color: transparent;
 }
 
 .badge{
@@ -130,4 +132,49 @@ a{
   margin-top: 0.5rem;
   height: 2rem;
   width: fit-content;
+ 
+}
+
+.dark-badge{
+  background-color: #000;
+  color: #fff;
+}
+
+.sticky-nav{
+  position: sticky;
+  top: 0;
+  background-color: #121212;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0 1rem 0;
+}
+
+.sticky-nav-icons{
+  margin-left: 0.75rem;
+  background-color: #121212;
+  
+}
+
+.sticky-nav-options{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+}
+
+.sticky-nav-options button{
+  margin-right: 1rem;
+  
+}
+
+.nav-item{
+  margin-right: 1.5rem;
+  
+}
+
+@media (max-width: 1000px){
+  .hide{
+    display: none;
+  }
 }
