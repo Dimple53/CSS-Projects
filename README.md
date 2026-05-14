@@ -22,3 +22,22 @@ PixelVista is a sleek and minimal sidebar navigation layout for a photography-th
 - ✅ No JavaScript – pure HTML & CSS solution
 
 ---
+
+# 🎵 Spotify Frontend Clone – Pure CSS Project
+
+A responsive Spotify-inspired frontend clone built using only **HTML** and **CSS**. This project focuses on modern UI design, clean layouts, and responsive styling without using JavaScript.
+
+![Spotify Clone Screenshots]
+<img width="1352" height="715" alt="Spot1" src="https://github.com/user-attachments/assets/f13beba4-04c8-4f3f-9725-ef1f556241ca" />
+<img width="1342" height="641" alt="Spot2" src="https://github.com/user-attachments/assets/0abe861a-1471-4152-9f84-04b54a19d5c2" />
+<img width="1342" height="638" alt="Spot3" src="https://github.com/user-attachments/assets/bbcf08f3-86af-41a1-a92f-62ca49ef6f24" />
+
+---
+
+## ✨ Features
+
+* 🎵 Spotify-inspired modern UI
+* 📱 Responsive layout design
+* 🎨 Built using pure HTML & CSS
+* 🖱️ Smooth hover effects and transitions
+* ✅ No JavaScript used
